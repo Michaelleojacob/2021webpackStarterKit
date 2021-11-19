@@ -1,5 +1,11 @@
 # Webpack Starter Kit
 
+1. `git clone [remote-address] [what you want to name the repo]`
+
+2. rm -rf .git
+
+3. create and sync the new repo to the new cloned folder
+
 ## Clone This Repo
 
 That's right, _clone_ not fork. You will use this repo multiple times, but you can only fork a repository once. So here is what you need to do to clone the repo and still be able to push changes to your repo:
@@ -109,5 +115,7 @@ If you _are_ done, you can follow [this procedure](./gh-pages-procedure.md) to g
 # freshwebpackInstall2021
 
 # freshwebpackInstall2021
+
 # webpackStarterKit2021
+
 # 2021webpackStarterKit
